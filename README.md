@@ -33,6 +33,3 @@
 
 ## 기술
 Python · pandas · NumPy · scikit-learn · PyTorch · LightGBM · statsmodels · SQL
-
-## 자격증
-SQLD · 재경관리사 · 전산세무 2급 · DIAT
