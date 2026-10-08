@@ -7,7 +7,7 @@
 | 프로젝트 | 유형 | 주제 | 결과 |
 |---|---|---|---|
 | [신용카드 사기 거래 탐지](https://github.com/glendale123-jpg/credit-card-fraud-detection) | 개인 · Dacon | 라벨 30건으로 하는 비지도 이상탐지 | Public 0.9305 / Private 0.9054 (macro-F1) |
-| [고객 성별 예측](https://github.com/glendale123-jpg/kml-gender-prediction) | 팀(4인) · 머신러닝 수업 경진대회 | 백화점 거래 → 고객 성별, 거래단위 stacking 설계 | Public 0.72949 → 0.73581 (ROC-AUC), 제출 당시 1위 |
+| [고객 성별 예측](https://github.com/glendale123-jpg/kml-gender-prediction) | 팀(4인) · 머신러닝 수업 경진대회 | 백화점 거래 → 고객 성별, 거래단위 stacking 설계 | Public 0.72949 → 0.73581 (ROC-AUC), 0.73330 제출 시 리더보드 1위 |
 | [설비 비정상 작동 분류](https://github.com/glendale123-jpg/dacon-anomaly-classification) | 팀(4인) · 머신러닝 수업 | 52개 센서 → 21개 클래스 분류, 4-모델 앙상블 개선 | Private 0.8598 → 0.8744 |
 | [BC카드 시장 침투도 분석](https://github.com/glendale123-jpg/BCCARD-submission) | 팀장(3인) · 공모전 | 1,813개 시장의 기대 결제액 회귀 → 공략 우선순위 발굴 | 제1회 AI금융빅데이터플랫폼 공모전 제출 |
 | [유가·전기차 EDA](https://github.com/glendale123-jpg/EV-OIL) | 팀 · EDA | 유가·소득·충전소와 전기차 보급의 관계 | 회귀·이중 축 시각화 |
